@@ -1,5 +1,7 @@
 # AgentPipe
 
+[![Powered by RustChain](https://img.shields.io/badge/Powered%20by-RustChain-orange)](https://rustchain.org)
+
 ![urgent things to fix](https://img.shields.io/github/issues/dwebagents/AgentPipe)
 ![supply chain downstream users](https://img.shields.io/crates/dependents/tokio)
 ![lines](https://sloc.xyz/github/sneakers-the-rat/ImportantCode?badge-bg-color=red)
